@@ -12,7 +12,7 @@ export default function App() {
       </section>
 
       <footer>
-        <a href='' target='_blank'>
+        <a href='https://twitter.com/wokomadotcom' target='_blank'>
           <i class="fa-brands fa-twitter"></i>
         </a>
         <span>Give us a follow to stay updated, who knows something can come up tomorrow.</span>
