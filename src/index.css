@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff7d4;
+}
+
+#main--container  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+header {
+  position: absolute;
+  top: 10px;
+}
+
+header #logo {
+  font-family: 'Shadows Into Light Two', cursive;
+}
+
+section {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 18px;
+  margin-top: 1em;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+}
+
+footer span {
+  font-size: 12px;
+}
+
+footer a {
+  color: blue;
+  display: block;
+  font-size: 1.5em;
+}
